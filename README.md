@@ -1,5 +1,15 @@
-# 💫 About Me:
-I'm currently pursuing cloud devops engineer<br>Learning full stack web development<br>Trying to learn french and korean on duolingo<br>learning cs fundamentals daily, practicing SQL <br>DSA is going hand-in hand<br>quick learner <br>
+🚀 About Me
+
+Hi there! I'm a passionate tech enthusiast on a journey to become a Cloud & DevOps Engineer ☁️⚙️
+
+💻 Currently diving deep into Full Stack Web Development
+📚 Strengthening my Computer Science fundamentals daily
+🗄 Practicing SQL & Database Design consistently
+🧠 Solving Data Structures & Algorithms problems regularly
+🌍 Exploring new languages — learning French 🇫🇷 & Korean 🇰🇷 on Duolingo
+⚡ Quick learner with a strong problem-solving mindset
+
+I believe in building strong foundations, writing clean code, and continuously improving every single day.
 
 
 ## 🌐 Socials:
