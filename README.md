@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pari Gaur</h1>
 
 <p align="center">
-Aspiring <b>Cloud & DevOps Engineer</b> | Full Stack Developer
+Aspiring <span style="color:#58a6ff;"><b>Cloud & DevOps Engineer</b></span> | 
+<span style="color:#ffa657;"><b>Full Stack Developer</b></span>
 </p>
 
 <p align="center">
@@ -12,17 +13,38 @@ Aspiring <b>Cloud & DevOps Engineer</b> | Full Stack Developer
 
 ## 👨‍💻 About Me
 
-Aspiring **Cloud & DevOps Engineer** with a strong interest in building scalable and reliable systems.
+<p>
+Aspiring <span style="color:#58a6ff;"><b>Cloud & DevOps Engineer</b></span> with a strong interest in building 
+<span style="color:#3fb950;"><b>scalable and reliable systems</b></span>.
+</p>
 
-Currently developing skills in **Full Stack Web Development** while strengthening **Computer Science fundamentals**.
+<p>
+Currently developing skills in 
+<span style="color:#ffa657;"><b>Full Stack Web Development</b></span> while strengthening 
+<span style="color:#d2a8ff;"><b>Computer Science fundamentals</b></span>.
+</p>
 
-Actively practicing **Data Structures & Algorithms** and improving expertise in **SQL and Database Design**.
+<p>
+Actively practicing 
+<span style="color:#79c0ff;"><b>Data Structures & Algorithms</b></span> and improving expertise in 
+<span style="color:#f0883e;"><b>SQL and Database Design</b></span>.
+</p>
 
-I enjoy building **real-world projects** and exploring modern technologies.
+<p>
+I enjoy building <span style="color:#3fb950;"><b>real-world projects</b></span> and exploring 
+<span style="color:#58a6ff;"><b>modern technologies</b></span>.
+</p>
 
-Also learning **French and Korean** to broaden my global perspective.
+<p>
+Also learning <span style="color:#ff7b72;"><b>French</b></span> and 
+<span style="color:#ff7b72;"><b>Korean</b></span> to broaden my global perspective.
+</p>
 
-Always open to **learning, collaboration, and opportunities to build meaningful technology.**
+<p>
+Always open to <span style="color:#79c0ff;"><b>learning</b></span>, 
+<span style="color:#79c0ff;"><b>collaboration</b></span>, and 
+<span style="color:#79c0ff;"><b>opportunities</b></span> to build meaningful technology.
+</p>
 
 ---
 
@@ -97,17 +119,6 @@ Always open to **learning, collaboration, and opportunities to build meaningful 
 </p>
 
 ---
-
-## 🔥 3D Contribution Calendar
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parigaur21&theme=github_dark"/>
-
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
@@ -117,11 +128,3 @@ Always open to **learning, collaboration, and opportunities to build meaningful 
 </p>
 
 ---
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=parigaur21&style=for-the-badge&color=blue"/>
-
-</p>
