@@ -2,11 +2,17 @@ Hey!
 I'm a passionate tech enthusiast on a journey to become a Cloud & DevOps Engineer
 
 💻 **Full Stack Web Developer in Progress** | Passionate about Building Scalable Applications
+
 📚 Strengthening **Computer Science fundamentals** to develop a strong problem-solving foundation.
+
 🧠 Actively practicing **Data Structures & Algorithms** to improve logical thinking and coding efficiency.
+
 🗄 Enhancing expertise in **SQL & Database Design**, focusing on optimized queries and efficient data structures.
+
 🌐 Exploring modern technologies while building **real-world full-stack projects**.
+
 🌍 Expanding global perspective by learning **French & Korean on Duolingo**.
+
 ⚡ **Quick learner with a strong analytical mindset**, driven to solve complex problems with technology.
 
 
