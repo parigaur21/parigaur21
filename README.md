@@ -92,7 +92,17 @@ Always open to **learning, collaboration, and opportunities to build meaningful 
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/parigaur21/parigaur21/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 🔥 3D Contribution Calendar
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parigaur21&theme=github_dark"/>
 
 </p>
 
