@@ -80,25 +80,6 @@ Always open to <span style="color:#79c0ff;"><b>learning</b></span>,
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=parigaur21&show_icons=true&theme=github_dark_dimmed" height="170"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=parigaur21&theme=github_dark_dimmed" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parigaur21&layout=compact&theme=github_dark_dimmed" height="150"/>
-
-</p>
-
----
 
 ## 📈 GitHub Activity Graph
 
